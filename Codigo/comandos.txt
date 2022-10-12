@@ -1,5 +1,8 @@
+# Crear el setup para ROS
+source devel/setup.bash
+
 # Lanzar ROS
-roslaunch
+roscore
 
 # Lanzar dynamixel_one_motor 
 roslaunch dynamixel_one_motor one_controller.launch
