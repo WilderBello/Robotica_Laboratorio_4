@@ -1,0 +1,8 @@
+# Lanzar ROS
+roslaunch
+
+# Lanzar dynamixel_one_motor 
+roslaunch dynamixel_one_motor one_controller.launch
+
+# Ejecutar los comandos de movimiento
+python3 jointPub.py
