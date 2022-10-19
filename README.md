@@ -25,7 +25,7 @@ También se obtuvo el diagrama simulado en Matlab haciendo uso del Toolbox de Pe
 Para implementar cada una de las posiciones propuestas por la guía, se ubicó inicialmente el robot haciendo uso de Dynamixel Wizard para así corroborar que dichas posiciones fueran alcanzables, dada la posición HOME como el robot en vertical:
 
 - Posición 1: 0, 0, 0, 0, 0
-![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Imagenes/Wizard1.jpg)
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Imagenes/Wizard1.png)
 - Posición 2: -20, 20, -20, 20, 0
 ![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Imagenes/Wizard2.jpg)
 - Posición 3: 30, -30, 30, -30, 0
@@ -37,4 +37,4 @@ Para implementar cada una de las posiciones propuestas por la guía, se ubicó i
 
 Mediante la codificación en Python en cada uno de los puntos anteriormente dados, se realizó la implementación de cada posición de manera espaciada para poder observar correctamente el movimiento, como se puede observar en el video:
 
-![Video de movimiento del Robot Phantom X](Link de video)
+![Video de movimiento del Robot Phantom X](https://drive.google.com/file/d/1QhI-nAJg5XgqxbzmVyoA0x-kBUTsYf57/view?usp=sharing)
