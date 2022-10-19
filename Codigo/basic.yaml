@@ -10,28 +10,28 @@ joint_1:
 
 joint_2:
   ID: 7
-  Return_Delay_Time: 1000
+  Return_Delay_Time: 10
   # CW_Angle_Limit: 0
   # CCW_Angle_Limit: 2047
   #Moving_Speed: 512
 
 joint_3:
   ID: 8
-  Return_Delay_Time: 2000
+  Return_Delay_Time: 20
   # CW_Angle_Limit: 0
   # CCW_Angle_Limit: 2047
   #Moving_Speed: 512
 
 joint_4:
   ID: 9
-  Return_Delay_Time: 3000
+  Return_Delay_Time: 30
   # CW_Angle_Limit: 0
   # CCW_Angle_Limit: 2047
   #Moving_Speed: 512
 
 joint_5:
   ID: 10
-  Return_Delay_Time: 4000
+  Return_Delay_Time: 40
   # CW_Angle_Limit: 0
   # CCW_Angle_Limit: 2047
   #Moving_Speed: 512
