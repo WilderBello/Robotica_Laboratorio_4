@@ -44,6 +44,14 @@ Para implementar cada una de las posiciones propuestas por la guía, se ubicó i
 
 ![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Imagenes/Wizard5.jpg)
 
-Mediante la codificación en Python en cada uno de los puntos anteriormente dados, se realizó la implementación de cada posición de manera espaciada para poder observar correctamente el movimiento, como se puede observar en el video:
+Mediante la codificación en Python en cada uno de los puntos anteriormente dados, se realizó la implementación de cada posición de manera espaciada para poder observar correctamente el movimiento, el código utilizado es el siguiente:
+
+- Para ejecutar correctamente el programa se utilizaron los comandos dados en (![comandos para ROS](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Codigo/comandos.txt)).
+
+- Se modificó el archivo basic.yaml para que ROS reconociera cada una de las articulaciones (![ver código](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Codigo/basic.yaml)).
+
+- Se agregaron las posiciones necesarias mediante comentarios para poder enviar cada posición a la vez (![ver código en Python](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Codigo/jointPub.py)).
+
+La implementación del código se puede observar en el video:
 
 [![Ver el video](https://drive.google.com/file/d/1QhI-nAJg5XgqxbzmVyoA0x-kBUTsYf57/view?usp=sharing)](https://drive.google.com/file/d/1QhI-nAJg5XgqxbzmVyoA0x-kBUTsYf57/view?usp=sharing)
