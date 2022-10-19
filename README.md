@@ -46,4 +46,4 @@ Para implementar cada una de las posiciones propuestas por la guía, se ubicó i
 
 Mediante la codificación en Python en cada uno de los puntos anteriormente dados, se realizó la implementación de cada posición de manera espaciada para poder observar correctamente el movimiento, como se puede observar en el video:
 
-![Video de movimiento del Robot Phantom X](https://drive.google.com/file/d/1QhI-nAJg5XgqxbzmVyoA0x-kBUTsYf57/view?usp=sharing)
+![](https://drive.google.com/file/d/1QhI-nAJg5XgqxbzmVyoA0x-kBUTsYf57/view?usp=sharing)
