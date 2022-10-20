@@ -11,14 +11,40 @@ El laboratorio No. 4 tiene como objetivo manipular el robot Phantom X Pincher, i
 
 ## Mediciones
 
-Para la implementación del laboratorio, realizaron las mediciones de longitudes de cada eslabón para posteriormente obtener el diagrama del robot y los parámetros DH.
+Para la implementación del laboratorio, realizaron las mediciones de longitudes de cada eslabón para posteriormente obtener el diagrama del robot y los parámetros DH, contrastando con los valores obtenidos del datasheet del fabricante del manipulador.
 
-![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Imagenes/Diagrama.jpg)
-![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Imagenes/Parametros.jpg)
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Space_Work.png)
+
+Con estos datos se procede a determinar los marcos y parámetros del manipulador de acuerdo con la convención Denavit-Hartenber estandar.
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Marcos_DH.png)
+
+- Parámetros DH
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/DH.png)
 
 También se obtuvo el diagrama simulado en Matlab haciendo uso del Toolbox de Peter Corke:
 
-![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/Imagenes/Diagrama_Matlab.jpg)
+- Posición 1: 0, 0, 0, 0, 0
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Posicion_N%C2%B001.png)
+
+- Posición 2: -20, 20, -20, 20, 0
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Posicion_N%C2%B002_1.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Posicion_N%C2%B002_2.png)
+
+- Posición 3: 30, -30, 30, -30, 0
+
+![]()
+
+- Posición 4: -90, 15, -55, 17, 0
+
+![]()
+
+- Posición 5: -90, 45, -55, 45, 10
+
+![]()
 
 ## ROS
 
