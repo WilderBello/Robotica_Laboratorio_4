@@ -17,7 +17,7 @@ Para la implementación del laboratorio, realizaron las mediciones de longitudes
 
 Con estos datos se procede a determinar los marcos y parámetros del manipulador de acuerdo con la convención Denavit-Hartenber estandar.
 
-![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Marcos_DH.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Marcos_DH1.png)
 
 - Parámetros DH
 
