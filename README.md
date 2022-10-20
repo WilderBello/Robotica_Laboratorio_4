@@ -36,15 +36,15 @@ También se obtuvo el diagrama simulado en Matlab haciendo uso del Toolbox de Pe
 
 - Posición 3: 30, -30, 30, -30, 0
 
-![]()
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Posicion_N%C2%B003.png)
 
 - Posición 4: -90, 15, -55, 17, 0
 
-![]()
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Posicion_N%C2%B004.png)
 
 - Posición 5: -90, 45, -55, 45, 10
 
-![]()
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Posicion_N%C2%B005.png)
 
 ## ROS
 
